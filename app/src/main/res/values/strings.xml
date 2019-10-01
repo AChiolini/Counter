@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Counter</string>
+    <string name="reset" translatable="false">Reset</string>
+    <string name="aggiungi" translatable="false">+1</string>
+    <string name="score">0</string>
+    <string name="reset_message">Counter azzerato</string>
+</resources>
